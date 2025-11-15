@@ -9,4 +9,5 @@ let num2 = 79;
 // let a = Math.floor(5.8); This One Is Less Then to 5
 // let a = Math.min(5,3,7); This One Is Minimum value nearest value
 // let a  = Math.max(4,10,15); This One Is Maxium value Of highest Value
-console.log(a)
+
+// console.log(a)
